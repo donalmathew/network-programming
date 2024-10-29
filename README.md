@@ -71,3 +71,5 @@ Make sure you have the necessary network permissions and tools installed on your
 
 
 - [code](/tcp/client.md)
+
+https://chatgpt.com/c/e0e59454-6c67-405d-babf-94a3a145f0d2
